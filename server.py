@@ -6,8 +6,8 @@ import os
 def hello_world(request):
     name = os.environ.get('NAME')
     if name == None or len(name) == 0:
-        name = "world"
-    message = "Hello, " + name + "!\n"
+        name = "This is a first class which is related to Apprunner."
+    message = "HiWelcome to Devops And Aws App Runner Class Example, " + name + "!\n"
     return Response(message)
 
 if __name__ == '__main__':
