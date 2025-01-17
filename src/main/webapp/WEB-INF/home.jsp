@@ -7,30 +7,31 @@
 <head>
 <spring:url value="/resources/images/mithunlogo.jpg" var="mithunlogo" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>AshokDevopsEngineer- Home Page</title>
 <link href="${mithunlogo}" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies.</h1>
-<h1 align="center">Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Hi Ashok,This is Custom WebAppSite For Java And Maven BuildTool Project.</h1>
+<h1 align="center">I am a DevopsEngineer and having knowledge on various tools and Cloud Technology also Having some Good Selenium Testing Skills with addition to that some how knowledge on Azure data factory.</h1>
 <hr>
 <div style="text-align: center;">
-	<span>
-		<img src="${mithunlogo}" alt="" width="100"/>
+	<span>img src="https://imgk.timesnownews.com/media/Anushka_Shetty_1.jpg" alt="" width="200"/>
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli,Opp To Madhurai Iddly House
-		Bangalore.
-		+91-9980923226
+		AshokKumar,
+                DevopsEngineer,
+                TCS Company,
+		Near SiddhiVinayakaHomes,BehindMallareddyVentures,Kurnool,
+		AndhraPradesh,
+		+91-6300235368.
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="${pageContext.request.contextPath}/services/getEmployeeDetails">Get Employee Details </p>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>DevopsEnginner-Having a 4.3 Years of Experience In It Field.</p>
 <p align=center><small>Copyrights 2018 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
 
 </body>
