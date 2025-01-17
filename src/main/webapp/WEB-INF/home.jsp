@@ -16,7 +16,8 @@
 <h1 align="center">I am a DevopsEngineer and having knowledge on various tools and Cloud Technology also Having some Good Selenium Testing Skills with addition to that some how knowledge on Azure data factory.</h1>
 <hr>
 <div style="text-align: center;">
-	<span>img src="https://imgk.timesnownews.com/media/Anushka_Shetty_1.jpg" alt="" width="200"/>
+	<span>
+              <img src="https://imgk.timesnownews.com/media/Anushka_Shetty_1.jpg" alt="" width="200"/>
 
 	</span>
 	<span style="font-weight: bold;">
